@@ -1,0 +1,9 @@
+ name: Name of the Demo
+ description: Some description, please keep it in one line
+ authors:
+   - John Doe
+   - Jan Wisniewski
+ resources:
+   - https://github.com/aqclouxter/frontCPA/blob/master/src/main.js
+ normalize_css: no
+ load_type: d
